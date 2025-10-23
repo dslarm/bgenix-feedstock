@@ -9,6 +9,7 @@ source:
   sha256: 9d1cac81142ed639cd928db92a2f860f82665b82ebf858bc3ad43c99faffd5f2
   patches:
     - streampos.patch
+    - wscript.patch
     
 build:
   skip: true  # [win]

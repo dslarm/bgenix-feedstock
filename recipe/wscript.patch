@@ -1,0 +1,4 @@
+25c25
+<         '-Wno-deprecated-declarations', '-Wno-long-long', '-fPIC', '-std=c++11']
+---
+>         '-Wno-deprecated-declarations', '-Wno-long-long', '-fPIC']

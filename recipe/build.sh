@@ -5,7 +5,7 @@
       --bindir=${PREFIX}/bin \
       --libdir=${PREFIX}/lib \
       --jobs=${CPU_COUNT} \
-      CFLAGS="${CFLAGS} -std=c++11 -I${PREFIX}/include -I${PREFIX}/include/boost" \
-      CXXFLAGS="${CXXFLAGS} -std=c++11 -I${PREFIX}/include -I${PREFIX}/include/boost" \
+      CFLAGS="${CFLAGS} -I${PREFIX}/include -I${PREFIX}/include/boost" \
+      CXXFLAGS="${CXXFLAGS} -I${PREFIX}/include -I${PREFIX}/include/boost" \
       LDFLAGS="${LDFLAGS} -L${PREFIX}/lib"
 

@@ -193,5 +193,6 @@ In order to produce a uniquely identifiable distribution:
 Feedstock Maintainers
 =====================
 
+* [@dslarm](https://github.com/dslarm/)
 * [@matuskosut](https://github.com/matuskosut/)
 
